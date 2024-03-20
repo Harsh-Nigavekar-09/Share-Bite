@@ -12,7 +12,8 @@ The ultimate objective of this project is to communicate that investments in foo
 Flowchart of the working of the application:
 
 <p align="center">
-  <img src="">
+  <img src="![image](https://github.com/Harsh-Nigavekar-09/Share-Bite/assets/164144248/9a7834b6-cd35-4394-8133-59dfee46f7bd)
+  ">
 </p>
 
 Some screenshots of the Application:

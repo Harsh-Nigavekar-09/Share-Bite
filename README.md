@@ -27,7 +27,8 @@ Some screenshots of the Application:
     <td><img src="" width="220"></td>
     <td><img src="" width="220"></td>
     <td><img src="" width="220"></td>
-    ![image](https://github.com/Harsh-Nigavekar-09/Share-Bite/assets/164144248/917c95c7-22bb-4be6-a97a-7030842b3690)
+   ![image](https://github.com/Harsh-Nigavekar-09/Share-Bite/assets/164144248/d888f49e-7996-4f03-a246-7188800bf37c)
+
 
   </tr>
  </table>
